@@ -6,3 +6,5 @@
 <p align="center">
   <img src="resource/images2.png">
 </p>
+
+<!-- ini adalah profil saya  -->
